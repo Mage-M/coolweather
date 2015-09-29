@@ -103,7 +103,7 @@ public class Utility {
 			
 			SharedPreferences.Editor editor = PreferenceManager.getDefaultSharedPreferences(context).edit();
 			editor.putBoolean("city_selected", true);
-			editor.putString("city_Name", cityName);
+			editor.putString("city_name", cityName);
 			editor.putString("weatherCode", weatherCode);
 			editor.putString("temp1", temp1);
 			editor.putString("temp2", temp2);
