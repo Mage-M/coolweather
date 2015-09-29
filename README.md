@@ -3,6 +3,8 @@
 
  * 2015.9.28 完成遍历省市县三级列表功能
  * 2015.9.29 完成获取天气和切换城市
+ 
+
 ###选择省份菜单
 ![省级菜单](https://github.com/Mage-M/coolweather/raw/master/res/drawable-hdpi/device_2015_09_29_143853.png)
 
